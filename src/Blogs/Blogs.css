@@ -1,0 +1,13 @@
+.bigbrother{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.bhai{
+    width: 30%;
+    background-color: aqua;
+    padding: 12px;
+}

@@ -1,0 +1,13 @@
+.hye{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.cv{
+    width: 30%;
+    background-color: goldenrod;
+    padding: 12px;
+}

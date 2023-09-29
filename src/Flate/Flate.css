@@ -1,0 +1,14 @@
+.bad{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+    flex-wrap: wrap;
+    gap: 1rem;
+
+}
+.kichan{
+    width:30%;
+    background-color: greenyellow;
+    padding: 12px;
+}

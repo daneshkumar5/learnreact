@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.boxx{
+    width: 30%;
+    background-color: rgb(192, 31, 120);
+    padding: 12px;
+}

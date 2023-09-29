@@ -1,0 +1,13 @@
+.whatsapp{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.kite{
+    width: 30%;
+    background-color: rgb(48, 48, 112);
+    padding: 12px;
+}

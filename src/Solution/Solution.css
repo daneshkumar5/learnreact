@@ -1,0 +1,15 @@
+.family{
+    width: 100%;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.home{
+    width: 30%;
+    background-color: yellowgreen;
+    padding: 12px;
+   
+
+}

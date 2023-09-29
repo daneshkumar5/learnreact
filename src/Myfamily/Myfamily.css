@@ -1,0 +1,15 @@
+.partenir{
+    width: 100%;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.brothers{
+    width: 30%;
+    background-color: goldenrod;
+    padding: 12px;
+   
+
+}

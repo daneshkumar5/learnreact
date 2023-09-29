@@ -1,0 +1,16 @@
+.main-div{
+    width: 100%;
+    
+    border: 1px solid #c3c3c3;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.box{
+    width: 30%;
+    background-color: gray;
+    padding: 12px;
+   
+
+}
